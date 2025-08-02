@@ -4,11 +4,11 @@ A mini LinkedIn-like community platform built using React, Node.js, Express, and
 
 ## 🚀 Live Demo
 
-🌐 [Live Demo](https://your-vercel-url.com)
+🌐 [Live Demo](https://caal.onrender.com)
 
 ## 📁 GitHub Repo
 
-🔗 [GitHub Repo](https://github.com/your-username/mini-linkedin)
+🔗 [GitHub Repo](https://github.com/Er-Rajnish-Kumar-Tiwari/CAAL/)
 
 ## 🧱 Stack Used
 
@@ -16,7 +16,7 @@ A mini LinkedIn-like community platform built using React, Node.js, Express, and
 - Backend: Node.js, Express.js
 - Database: MongoDB Atlas
 - Auth: JWT, bcrypt
-- Hosting: Vercel (frontend), Render (backend)
+- Hosting: Render (frontend), Render (backend)
 
 ## 🛠️ Setup Instructions
 
